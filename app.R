@@ -11,7 +11,6 @@ library(crosstalk)
 #library(tidyjson)
 
 
-
 # APP SETTINGS ---------------------------------------------------------------- 
 
 timeoutSeconds <- 10*60 # App closes after x seconds of inactivity
